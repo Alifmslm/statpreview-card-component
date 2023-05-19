@@ -89,6 +89,7 @@ p {
     border-radius: 0 8px 8px 0;
     background-image: url(images/image-header-desktop.jpg);
     background-color: var(--soft-violet);
+    background-size: cover;
     background-blend-mode: multiply;
 }
 
